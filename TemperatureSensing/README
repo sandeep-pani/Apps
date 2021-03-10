@@ -1,3 +1,5 @@
 This app is used along with another device which helps you get the temperature using message commands.
 So this app sends a pre-configured message to a provided phone number.
 Currently this is under development and is not meant for public use.
+
+*********Currently works best with dark theme enabled in phone settings***********
